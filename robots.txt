@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jpexpress.github.io/sitemap.xml
